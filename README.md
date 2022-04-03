@@ -26,3 +26,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 # fund-launch-UI
+
+# add to github
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+no such identity: /Users/ebolee/.ssh/id_ed25519: No such file or directory
