@@ -36,13 +36,13 @@
 }
 
 .heroes button.selected {
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: red;
 }
 
 .heroes button.selected:hover {
   background-color: #505050;
-  color: white;
+  color: greenyellow;
 }
 
 .heroes button.selected:active {
