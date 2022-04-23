@@ -6,7 +6,7 @@ import { HEROES } from './mock-heros'
   providedIn: 'root'
 })
 export class HeroService {
-  getHeros(): Hero[] {
+  getHeroes(): Hero[] {
     return HEROES;
   }
   constructor() { }
